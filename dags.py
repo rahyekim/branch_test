@@ -12,3 +12,4 @@ bash_t1=BashOperator(
 
 bash_t1 >> bash_t2
 
+왜 안되냐고
